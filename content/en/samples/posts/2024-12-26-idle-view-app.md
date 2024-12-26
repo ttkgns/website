@@ -21,17 +21,15 @@ This section highlights the core functionalities of the IdleView project.
 
 - **Customizable Dashboards and Widgets**  
   Users can personalize their IdleView screen with widgets for weather updates, calendar schedules, media playback, and more.
+  <p align="center"> <img src="https://github.com/ttkgns/Idle-View-team7/blob/main/dashboard_heritage_red.png?raw=true" alt="Customizable Dashboard" width="100%" /> </p> <p align="center"> <small>*Example of a customizable dashboard with various widgets.* </p>
 
 - **Seamless Integration**  
   A user-friendly interface and backend systems powered by Node.js, MySQL, and REST APIs support personalization and data management.
+  <p align="center"> <img src="ADD_SOURCE_HERE?raw=true" alt="Integration Diagram" width="100%" /> </p> <p align="center"> <small>*Diagram showcasing the seamless integration between the frontend, backend, and database systems.* </p>
 
 - **Real-Time Information Updates**  
   The system securely retrieves and displays real-time weather updates via HTTPS communication.
-
-<p align="center">
-  <img src="https://github.com/ttkgns/Idle-View-team7/blob/main/media_widget.png?raw=true" alt="Image 1" width="49%" />
-  <img src="https://github.com/ttkgns/Idle-View-team7/blob/main/weather_widget%20(2).png?raw=true" alt="Image 2" width="49%" />
-</p>
+  <p align="center"> <img src="ADD_SOURCE_HERE?raw=true" alt="Weather Updates" width="100%" /> </p> <p align="center"> <small>*Real-time weather widget displaying current conditions.* </p>
 
 
 
